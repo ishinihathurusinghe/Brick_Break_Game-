@@ -3,8 +3,7 @@ import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-/*<applet code="Brick_Break_Game" width=410 height=360>
-</applet>*/
+
 public class Brick_Break_Game extends JApplet implements KeyListener
 {       int x=300,y=482,k,x1=315,y1=470,a,b,c,d,a1,b1,e=0,f=-1,z=0;
         int br[]={1,1,1,1,1,1,1,1,1,1,1,1};
